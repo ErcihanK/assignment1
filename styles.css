@@ -1,0 +1,77 @@
+.title {
+    margin: auto;
+    line-height: 5;
+    color: white;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    border:solid;
+    border-top: 1px;
+    border-color: orangered;
+    background:dimgray;
+    font-family: sans-serif;
+}
+.title2 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.pic {
+    position: relative;
+    left: 1450px;
+
+}
+.pic2 {
+    position: relative;
+    right: 300px;
+
+}
+.info {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+.name {
+    margin-left: 30px;
+}
+.email {
+    margin-left: 20px;
+}
+.label { 
+    margin-left: 20px;}
+.classes {
+    
+    width: 180px;
+}
+.checkbox {
+    margin-left: -200px;
+}
+.submit {
+    margin-left: 20px;
+}
+.reset {
+    margin-left: 15px;
+}
+.copyright {
+    margin: auto;
+    position: absolute;
+    line-height: 5;
+    bottom:1px;
+    height: 100px;
+    width: 99.2%;
+    text-align: center;
+    border:solid;
+    border-bottom: 1px;
+    border-color:orangered;
+    background:dimgray;
+    font-family: sans-serif;
+}
+.pic3 {
+    position: absolute;
+    top: 25%;
+    left: 47%;
+    margin-top: -50px;
+    margin-left: -100px;
+}
